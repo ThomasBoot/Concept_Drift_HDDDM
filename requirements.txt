@@ -1,4 +1,7 @@
 river
+sklearn
 skmultiflow
+pandas
 numpy
+math
 matplotlib
